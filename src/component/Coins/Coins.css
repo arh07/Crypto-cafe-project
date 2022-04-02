@@ -1,0 +1,10 @@
+.coinCard{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    width: 75%;
+    margin-left: 250px;
+    margin-top: 50px;
+    grid-gap:40px;
+    
+    
+}

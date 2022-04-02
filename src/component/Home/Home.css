@@ -1,0 +1,20 @@
+.crypto-cafe{
+    color: rgb(127, 70, 62);
+    margin-top: 300px;
+    
+}
+
+.btn{
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid rgb(116, 83, 78);
+    border-radius: 20px;
+    background-color: antiquewhite;
+    font-size: larger;
+}
+
+.btn:hover{
+    background-color: tomato;
+    color: white;
+}
+
